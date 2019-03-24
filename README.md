@@ -1,1 +1,2 @@
-# test
+ecsiteはJavaで作成
+contactformはphpで作成
